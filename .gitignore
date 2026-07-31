@@ -1,0 +1,28 @@
+# Build and Object files
+build/
+*.o
+*.obj
+
+# Executables
+miniredis
+miniredis.exe
+
+# Database and persistence files
+*.aof
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
